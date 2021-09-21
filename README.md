@@ -2,5 +2,5 @@
 
 #### How to Run
 ```
-taiko nameOfTheScript.js
+taiko modanisa_taiko.js. --observe
 ```
